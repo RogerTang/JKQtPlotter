@@ -1,0 +1,8 @@
+<map id="JKQTPXXYGraph" name="JKQTPXXYGraph">
+<area shape="rect" id="node1" title="This virtual JKQTPGraph descendent extends JKQTPXYGraph to two columns for x&#45;values (e...." alt="" coords="51,315,202,344"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_filled_horizontal_range_graph.html" title="This implements filled curve plots where the area is filled between two data columns for each y&#45;value..." alt="" coords="5,392,248,439"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_x_y_graph.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="57,237,197,267"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="67,160,186,189"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="43,83,210,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="83,5,170,35"/>
+</map>

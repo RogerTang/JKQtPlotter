@@ -1,0 +1,7 @@
+<map id="JKQTPGeoText" name="JKQTPGeoText">
+<area shape="rect" id="node1" title="This JKQTPPlotAnnotationElement is used to display text. It uses the JKQTMathText class in order to d..." alt="" coords="198,237,333,267"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_plot_annotation_element.html" title="this is the virtual base class of all JKQTPPlotElement&#39;s in a JKQTPlotter plot that represent annotat..." alt="" coords="5,160,259,189"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="49,83,215,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="89,5,175,35"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_graph_text_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for text in graphs." alt="" coords="283,160,514,189"/>
+</map>

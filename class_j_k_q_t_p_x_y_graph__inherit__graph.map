@@ -1,0 +1,35 @@
+<map id="JKQTPXYGraph" name="JKQTPXYGraph">
+<area shape="rect" id="node1" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="521,463,661,492"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_x_x_y_graph.html" title="This virtual JKQTPGraph descendent extends JKQTPXYGraph to two columns for x&#45;values (e...." alt="" coords="737,244,888,273"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_x_y_baseline_graph.html" title="This virtual JKQTPGraph descendent extends JKQTPXYGraph adds a baseline&#45;property, which is necessary,..." alt="" coords="709,379,916,408"/>
+<area shape="rect" id="node28" href="$class_j_k_q_t_p_x_y_line_graph.html" title="This implements xy line plots. This also alows to draw symbols at the data points." alt="" coords="726,516,899,545"/>
+<area shape="rect" id="node32" href="$class_j_k_q_t_p_x_y_y_graph.html" title="This virtual JKQTPGraph descendent extends JKQTPXYGraph to two columns for y&#45;values (e...." alt="" coords="737,609,888,639"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="355,463,473,492"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="140,463,307,492"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,463,92,492"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_filled_horizontal_range_graph.html" title="This implements filled curve plots where the area is filled between two data columns for each y&#45;value..." alt="" coords="971,154,1213,201"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_bar_graph_base.html" title="This is a base&#45;class for all bar graphs with vertical or horizontal orientation (the orientation is i..." alt="" coords="999,225,1185,255"/>
+<area shape="rect" id="node15" href="$class_j_k_q_t_p_filled_curve_graph_base.html" title="a Base class for filled curve graphs like e.g. JKQTPFilledCurveXGraph" alt="" coords="969,309,1215,339"/>
+<area shape="rect" id="node20" href="$class_j_k_q_t_p_impulses_graph_base.html" title="This is a base class for all impulse graphs." alt="" coords="977,379,1207,408"/>
+<area shape="rect" id="node25" href="$class_j_k_q_t_p_special_line_graph_base.html" title="a Base class for special line graphs (steps ...) like e.g. JKQTPSpecialLineHorizontalGraph" alt="" coords="968,463,1216,492"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_bar_horizontal_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="1289,68,1517,97"/>
+<area shape="rect" id="node12" href="$class_j_k_q_t_p_bar_vertical_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="1300,193,1507,223"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_bar_horizontal_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="1587,5,1853,35"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_bar_horizontal_stackable_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="1591,59,1849,106"/>
+<area shape="rect" id="node13" href="$class_j_k_q_t_p_bar_vertical_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="1597,131,1843,160"/>
+<area shape="rect" id="node14" href="$class_j_k_q_t_p_bar_vertical_stackable_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="1602,185,1838,231"/>
+<area shape="rect" id="node16" href="$class_j_k_q_t_p_filled_curve_x_graph.html" title="This implements filled curve plots where the area is filled between the plot line and the x&#45;Axis." alt="" coords="1295,256,1512,285"/>
+<area shape="rect" id="node18" href="$class_j_k_q_t_p_filled_curve_y_graph.html" title="This implements filled curve plots where the area is filled between the plot line and y&#45;Axis." alt="" coords="1295,309,1511,339"/>
+<area shape="rect" id="node17" href="$class_j_k_q_t_p_filled_curve_x_error_graph.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="1592,256,1848,285"/>
+<area shape="rect" id="node19" href="$class_j_k_q_t_p_filled_curve_y_error_graph.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="1593,309,1847,339"/>
+<area shape="rect" id="node21" href="$class_j_k_q_t_p_impulses_horizontal_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from y=0 to y=f(x) )" alt="" coords="1268,363,1539,392"/>
+<area shape="rect" id="node23" href="$class_j_k_q_t_p_impulses_vertical_graph.html" title="This implements an impulse plot with impulses in direction of the Y axis (i.e. from y=0 to y=f(x) )" alt="" coords="1278,416,1529,445"/>
+<area shape="rect" id="node22" href="$class_j_k_q_t_p_impulses_horizontal_error_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="1589,363,1851,410"/>
+<area shape="rect" id="node24" href="$class_j_k_q_t_p_impulses_vertical_error_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="1600,434,1840,481"/>
+<area shape="rect" id="node26" href="$class_j_k_q_t_p_special_line_horizontal_graph.html" title="This implements a step plot with values ." alt="" coords="1283,470,1524,517"/>
+<area shape="rect" id="node27" href="$class_j_k_q_t_p_special_line_vertical_graph.html" title="This implements a step plot with values ." alt="" coords="1293,541,1513,587"/>
+<area shape="rect" id="node29" href="$class_j_k_q_t_p_x_y_line_error_graph.html" title="This implements xy line plots with x and y error indicators." alt="" coords="986,516,1198,545"/>
+<area shape="rect" id="node30" href="$class_j_k_q_t_p_x_y_parametrized_scatter_graph.html" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="964,570,1220,617"/>
+<area shape="rect" id="node31" href="$class_j_k_q_t_p_x_y_parametrized_error_scatter_graph.html" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="1285,611,1522,658"/>
+<area shape="rect" id="node33" href="$class_j_k_q_t_p_filled_vertical_range_graph.html" title="This implements filled curve plots where the area is filled between two data columns for each x&#45;value..." alt="" coords="981,641,1203,687"/>
+</map>

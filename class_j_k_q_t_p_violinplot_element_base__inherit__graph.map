@@ -1,0 +1,10 @@
+<map id="JKQTPViolinplotElementBase" name="JKQTPViolinplotElementBase">
+<area shape="rect" id="node1" title="This implements a single vertical Violin Plot as a &quot;geometric element&quot;." alt="" coords="128,177,376,207"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_violinplot_horizontal_element.html" title="This implements a single horizontal Violin Plot as a &quot;geometric element&quot;." alt="" coords="5,255,229,301"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_violinplot_vertical_element.html" title="This implements a single vertical Violin Plot as a &quot;geometric element&quot;." alt="" coords="253,263,523,293"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="58,91,225,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="98,5,185,35"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_graph_violinplot_style_mixin.html" title="Styling Mix&#45;In for Violinplots." alt="" coords="249,83,479,129"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="228,5,460,35"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="484,5,703,35"/>
+</map>

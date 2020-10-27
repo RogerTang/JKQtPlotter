@@ -1,0 +1,770 @@
+\documentclass{article}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+% Packages requested by user
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage{newunicodechar}
+  \newunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \newunicodechar{²}{${}^{2}$}% Superscript two
+  \newunicodechar{³}{${}^{3}$}% Superscript three
+
+\pagestyle{empty}
+\begin{document}
+$ [x,y] = f(t) $
+\pagebreak
+
+$ f_x(t) $
+\pagebreak
+
+$ f_y(t) $
+\pagebreak
+
+$ t\in\left[t_\text{min}..t_\text{max}\tight] $
+\pagebreak
+
+$ [a, b] $
+\pagebreak
+
+\[ \mbox{minSamples} \cdot 2^{\mbox{maxRefinementDegree}} \]
+\pagebreak
+
+$ [x,y]=f_{xy}(t) $
+\pagebreak
+
+$ t_\text{min} $
+\pagebreak
+
+$ t_\text{max} $
+\pagebreak
+
+\[ \Delta t=\frac{N_{\mbox{now}}-N_{\mbox{start}}}{\mbox{\texttt{QueryPerformanceFrequency()}}}\cdot 10^{6} \]
+\pagebreak
+
+\[ A\cdot\vec{x}=\vec{b} \]
+\pagebreak
+
+\[ \left[A | \vec{b}\right] \]
+\pagebreak
+
+\[ \left[A | I_L\right] \]
+\pagebreak
+
+$ I_L $
+\pagebreak
+
+$ A\cdot\vec{x}=B $
+\pagebreak
+
+$ A\cdot\vec{x}=\vec{b} $
+\pagebreak
+
+$ \pi $
+\pagebreak
+
+$ \exp(1) $
+\pagebreak
+
+$ \sqrt{2} $
+\pagebreak
+
+$ \log_2(e) $
+\pagebreak
+
+$ \log_{10}(e) $
+\pagebreak
+
+$ \ln(2)=\log_{e}(2) $
+\pagebreak
+
+$ \ln(10)=\log_{e}(10) $
+\pagebreak
+
+$ 6.6260689633\cdot 10^{-34}\;\mathrm{J\cdot s} $
+\pagebreak
+
+$ \hbar=\frac{h}{2\pi}= 1.05457162853\cdot 10^{-34}\;\mathrm{J\cdot s} $
+\pagebreak
+
+$ \epsilon_0= 8.854187817\cdot 10^{-12}\;\mathrm{\frac{F}{m}} $
+\pagebreak
+
+$ \mu_0=2\pi\cdot 10^{-7}= 12.566370614\cdot 10^{-7}\;\mathrm{\frac{N}{A^2}} $
+\pagebreak
+
+$ 299792458\;\mathrm{\frac{m}{s}} $
+\pagebreak
+
+$ 1.60217648740\cdot 10^{-19}\;\mathrm{C}$
+\pagebreak
+
+$ \mu_B= 927.40091523\cdot 10^{-26}\;\mathrm{\frac{J}{T}} $
+\pagebreak
+
+$ \mu_B=5.788381755579\cdot 10^{-5}\;\mathrm{\frac{eV}{T}} $
+\pagebreak
+
+$ \mu_N=5.0507832413\cdot 10^{-27}\;\mathrm{\frac{J}{T}} $
+\pagebreak
+
+$ \mu_N=3.152451232645\cdot 10^{-8}\;\mathrm{\frac{eV}{T}} $
+\pagebreak
+
+$ m_e= 9.1093821545\cdot 10^{-31}\;\mathrm{kg} $
+\pagebreak
+
+$ m_p= 1.67262163783\cdot 10^{-27}\;\mathrm{kg} $
+\pagebreak
+
+$ m_n= 1.67492721184\cdot 10^{-27}\;\mathrm{kg} $
+\pagebreak
+
+$ N_A= 6.0221417930\cdot 10^{23} $
+\pagebreak
+
+$ k_B=1.380650424\cdot 10^{-23}\;\mathrm{\frac{J}{K}} $
+\pagebreak
+
+$ k_B=8.61734315\cdot 10^{-5}\;\mathrm{\frac{eV}{K}} $
+\pagebreak
+
+$ \lambda $
+\pagebreak
+
+$ \pi=3.14159... $
+\pagebreak
+
+$ \sqrt{2\pi}=2.50662827463 $
+\pagebreak
+
+$ \mbox{ln}(10)=2.30258509299404568402... $
+\pagebreak
+
+$ |v|\geq \mbox{absMinV} $
+\pagebreak
+
+\[ f(x,\mu, \sigma)=\frac{1}{\sqrt{2\pi\sigma^2}}\cdot\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right) \]
+\pagebreak
+
+$ f(x)=\sum\limits_{i=0}^Pp_ix^i $
+\pagebreak
+
+$ p_i $
+\pagebreak
+
+$ p_1 $
+\pagebreak
+
+$ x^0 $
+\pagebreak
+
+$ p_P $
+\pagebreak
+
+$ X_1 $
+\pagebreak
+
+$ X_N $
+\pagebreak
+
+\[ \overline{X}=\frac{1}{N}\cdot\sum\limits_{i=1}^{N}X_i \]
+\pagebreak
+
+$ w_i $
+\pagebreak
+
+\[ \overline{X}=\frac{\sum\limits_{i=1}^{N}w_i\cdot X_i}{\sum\limits_{i=1}^{N}w_i} \]
+\pagebreak
+
+\[ \sum(X)=\cdot\sum\limits_{i=1}^{N}\mbox{modifierFunctor}(X_i) \]
+\pagebreak
+
+\[ \sum(X)=\cdot\sum\limits_{i=1}^{N}X_i \]
+\pagebreak
+
+\[ \sum(X)=\cdot\sum\limits_{i=1}^{N}X_i^2 \]
+\pagebreak
+
+\[ \sum(X)_j=\cdot\sum\limits_{i=1}^{j}X_i \]
+\pagebreak
+
+$ \sigma_X^2=\mbox{Var}(X) $
+\pagebreak
+
+\[ \sigma_X^2=\text{Var}(X)=\frac{1}{N-1}\cdot\sum\limits_{i=1}^{N}(X_i-\overline{X})^2=\frac{1}{N-1}\cdot\left(\sum_{i=1}^NX_i^2-\frac{1}{N}\cdot\left(\sum_{i=1}^NX_i\right)^2\right) \]
+\pagebreak
+
+$ \sigma_X=\sqrt{\mbox{Var}(X)} $
+\pagebreak
+
+\[ \sigma_X=\sqrt{\frac{1}{N-1}\cdot\sum\limits_{i=1}^{N}(X_i-\overline{X})^2}= \]
+\pagebreak
+
+\[ \sigma_v^2=\text{Var}(v)=\frac{\sum\limits_{i=1}^{N}w_i\cdot (v_i-\overline{v})^2}{\sum\limits_{i=1}^{N}w_i} \]
+\pagebreak
+
+\[ \sigma_v=\sqrt{\frac{\sum\limits_{i=1}^{N}w_i\cdot (v_i-\overline{v})^2}{\sum\limits_{i=1}^{N}w_i}} \]
+\pagebreak
+
+$ \gamma_1=\mathbb{E}\left[\left(\frac{X-\mu}{\sigma}\right)^3\right] $
+\pagebreak
+
+$ \gamma_1 $
+\pagebreak
+
+\[ \gamma_1=\mathbb{E}\left[\left(\frac{X-\mu}{\sigma}\right)^3\right]= \frac{m_3}{m_2^{3/2}} = \frac{\frac{1}{n} \sum_{i=1}^n (x_i-\overline{x})^3}{\left(\frac{1}{n} \sum_{i=1}^n (x_i-\overline{x})^2\right)^{3/2}} \]
+\pagebreak
+
+$\mu$
+\pagebreak
+
+$\sigma$
+\pagebreak
+
+$X$
+\pagebreak
+
+$\overline{x}$
+\pagebreak
+
+$ x_i$
+\pagebreak
+
+$ \langle (X-\mu)^o\rangle $
+\pagebreak
+
+$ o $
+\pagebreak
+
+\[ \langle (X-\mu)^o\rangle= \mathbb{E}\left[\left(X-\mu\right)^o\right] \]
+\pagebreak
+
+$ \langle X^o\rangle $
+\pagebreak
+
+\[ \langle X^n\rangle= \mathbb{E}\left[X^n\right] \]
+\pagebreak
+
+$ \rho_{x,y} $
+\pagebreak
+
+$ Y_1 $
+\pagebreak
+
+$ X_i $
+\pagebreak
+
+$ Y_i $
+\pagebreak
+
+\[ \rho_{x,y}=\text{CorCoeff}_{\text{Pearson}}(x,y)=\frac{\sum\limits_{i=0}^{N-1}(x_i-\overline{x})(y_i-\overline{y})}{\sqrt{\sum\limits_{i=0}^{N-1}(x_i-\overline{x})^2\cdot\sum\limits_{i=0}^{N-1}(y_i-\overline{y})^2}} \]
+\pagebreak
+
+\[ 2\cdot\frac{1.58\cdot \mbox{IQR}}{\sqrt{N}} \]
+\pagebreak
+
+\[ \mbox{MAD}(\vec{x})=\mbox{Med}\left\{|\vec{x}-\mbox{Med}(\vec{x})|\right\} \]
+\pagebreak
+
+\[ \mbox{NMAD}(\vec{x})=\frac{\mbox{MAD}(\vec{x})}{0.6745}=\frac{\mbox{Med}\left\{|\vec{x}-\mbox{Med}(\vec{x})|\right\}}{0.6745} \]
+\pagebreak
+
+$ f(x): \mathbb{R}\rightarrow\mathbb{R} $
+\pagebreak
+
+$ x $
+\pagebreak
+
+$ f(x) $
+\pagebreak
+
+$ f(x)=\mbox{round}(x) $
+\pagebreak
+
+$ \mbox{firstGroupCenter} $
+\pagebreak
+
+$ \mbox{firstGroupCenter}\pm\mbox{groupWidth}/2$
+\pagebreak
+
+$ \mbox{firstGroupCenter}\pm2\cdot\mbox{groupWidth}/2 $
+\pagebreak
+
+$ \mbox{firstGroupCenter}\pm3\cdot\mbox{groupWidth}/2 $
+\pagebreak
+
+$ \mbox{round}\left(\frac{x-\mbox{firstGroupCenter}}{\mbox{groupWidth}/2}\right) $
+\pagebreak
+
+$ (c_i,v_i) $
+\pagebreak
+
+$ c_i $
+\pagebreak
+
+$ v_i $
+\pagebreak
+
+$ V_j=\{v_{i}|c_i\equiv c_{\text{out},j}\} $
+\pagebreak
+
+$ c_i\equiv c_{\text{out},j} $
+\pagebreak
+
+$ c_{\text{out},j} $
+\pagebreak
+
+$ c_1 $
+\pagebreak
+
+$ c_N $
+\pagebreak
+
+$ v_1 $
+\pagebreak
+
+$ v_N $
+\pagebreak
+
+$ Y_N $
+\pagebreak
+
+\[ k(t):=\frac{1}{\sqrt{2\pi}}\exp \left(-\frac{1}{2}t^2\right) \]
+\pagebreak
+
+\[ k(t):=\frac{1}{\pi(1+t^2)} \]
+\pagebreak
+
+\[ k(t):=\frac{1}{2}\exp(-|t|) \]
+\pagebreak
+
+\[ k(t) :=\begin{cases}\frac{3}{4} ( 1- t^2 ), & \text{if }t\in [-1;1]\\0, & \text{else}\end{cases} \]
+\pagebreak
+
+\[ k(t) :=\begin{cases}0.5, & \text{if }t\in [-1;1]\\0, & \text{else}\end{cases} \]
+\pagebreak
+
+\[ k(t) :=\begin{cases}1-|t|, & \text{if }t\in [-1;1]\\0, & \text{else}\end{cases} \]
+\pagebreak
+
+\[ k(t) :=\begin{cases}\frac{15}{16}(1-t^2)^2, & \text{if }t\in [-1;1]\\0, & \text{else}\end{cases} \]
+\pagebreak
+
+\[ k(t) :=\begin{cases}\frac{35}{32}(1-t^2)^3, & \text{if }t\in [-1;1]\\0, & \text{else}\end{cases} \]
+\pagebreak
+
+\[ k(t) :=\begin{cases}\frac{70}{81}(1-|t|^3)^3, & \text{if }t\in [-1;1]\\0, & \text{else}\end{cases} \]
+\pagebreak
+
+\[ k(t) :=\begin{cases}\frac{\pi}{4}\cos\left(\frac{\pi}{2}t\right), & \text{if }t\in [-1;1]\\0, & \text{else}\end{cases} \]
+\pagebreak
+
+\[ k(t_x, t_y):=\frac{1}{2\pi}\exp \left(-\frac{t_x^2+t_y^2}{2}\right) \]
+\pagebreak
+
+\[ k(t_x, t_y):=\begin{cases}\frac{1}{4}, & \text{if }t_x,t_y\in [-1;1]\\0, & \text{else}\end{cases} \]
+\pagebreak
+
+\[ h = \left(\frac{4\hat{\sigma}^5}{3n}\right)^{\frac{1}{5}} \approx 1.06 \hat{\sigma} n^{-1/5} \]
+\pagebreak
+
+\[ \tilde{f}(t):=\frac{1}{N\cdot\text{bandwidth}}\cdot\sum\limits_{i=0}^{N-1}K\left(\frac{t-x_i}{\text{bandwidth}}\right) \]
+\pagebreak
+
+\[ \tilde{f}(x,y):=\frac{1}{N\cdot\sqrt{\text{bandwidthx}}\cdot\sqrt{\text{bandwidthy}}}\cdot\sum\limits_{i=0}^{N-1}K\left(\frac{x-x_i}{\text{bandwidthx}},\frac{y-y_i}{\text{bandwidthy}}\right) \]
+\pagebreak
+
+\[ h = \hat{\sigma} n^{-1/(d+4)},\ \ \ \ \ d=2 \]
+\pagebreak
+
+$ (x_i,y_i) $
+\pagebreak
+
+$ x_1 $
+\pagebreak
+
+$ x_N $
+\pagebreak
+
+$ y_1 $
+\pagebreak
+
+$ y_N $
+\pagebreak
+
+\[ \begin{bmatrix} y_1\\ y_2\\ y_3 \\ \vdots \\ y_n \end{bmatrix}= \begin{bmatrix} 1 & x_1 & x_1^2 & \dots & x_1^P \\ 1 & x_2 & x_2^2 & \dots & x_2^P\\ 1 & x_3 & x_3^2 & \dots & x_3^P \\ \vdots & \vdots & \vdots & & \vdots \\ 1 & x_n & x_n^2 & \dots & x_n^P \end{bmatrix} \begin{bmatrix} p_0\\ p_1\\ p_2\\ \vdots \\ p_P \end{bmatrix} \]
+\pagebreak
+
+\[ \vec{y}=V\vec{p}\ \ \ \ \ \Rightarrow\ \ \ \ \ \vec{p}=(V^TV)^{-1}V^T\vec{y} \]
+\pagebreak
+
+$ f(x)=a+b\cdot x $
+\pagebreak
+
+\[ (a^\ast, b^\ast)=\mathop{\mathrm{arg\;min}}\limits_{a,b}\sum\limits_i\left(y_i-(a+b\cdot x_i)\right)^2 \]
+\pagebreak
+
+$ a $
+\pagebreak
+
+$ b $
+\pagebreak
+
+\[ a=\overline{y}-b\cdot\overline{x} \]
+\pagebreak
+
+\[ b=\frac{\sum x_iy_i-N\cdot\overline{x}\cdot\overline{y}}{\sum x_i^2-N\cdot(\overline{x})^2} \]
+\pagebreak
+
+\[ (a^\ast, b^\ast)=\mathop{\mathrm{arg\;min}}\limits_{a,b}\sum\limits_iw_i^2\cdot\left(y_i-(a+b\cdot x_i)\right)^2 \]
+\pagebreak
+
+$ w_1 $
+\pagebreak
+
+$ w_N $
+\pagebreak
+
+\[ a=\frac{\overline{y}-b\cdot\overline{x}}{\overline{w^2}} \]
+\pagebreak
+
+\[ b=\frac{\overline{w^2}\cdot\overline{x\cdot y}-\overline{x}\cdot\overline{y}}{\overline{x^2}\cdot\overline{w^2}-\overline{x}^2} \]
+\pagebreak
+
+$ w_i$
+\pagebreak
+
+\[ \overline{x}=\sum\limits_iw_i^2\cdot x_i \]
+\pagebreak
+
+\[ \overline{y}=\sum\limits_iw_i^2\cdot y_i \]
+\pagebreak
+
+\[ \overline{x\cdot y}=\sum\limits_iw_i^2\cdot x_i\cdot y_i \]
+\pagebreak
+
+\[ \overline{x^2}=\sum\limits_iw_i^2\cdot x_i^2 \]
+\pagebreak
+
+\[ \overline{w^2}=\sum\limits_iw_i^2 \]
+\pagebreak
+
+\[ (a^\ast,b^\ast)=\mathop{\mathrm{arg\;min}}\limits_{a,b}\sum\limits_i|a+b\cdot x_i-y_i|^p \]
+\pagebreak
+
+$ L_p $
+\pagebreak
+
+$ L_p$
+\pagebreak
+
+$ \vec{w} $
+\pagebreak
+
+\[ (a_n,b_n)=\mathop{\mathrm{arg\;min}}\limits_{a,b}\sum\limits_i|a+b\cdot x_i-y_i|^{(p-2)}\cdot|a+b\cdot x_i-y_i|^2 \]
+\pagebreak
+
+$ a_0$
+\pagebreak
+
+$ b_0$
+\pagebreak
+
+$ n$
+\pagebreak
+
+$\vec{e}$
+\pagebreak
+
+\[ e_i = a+b\cdot x_i -y_i \]
+\pagebreak
+
+$\vec{w}$
+\pagebreak
+
+\[ w_i=|e_i|^{(p-2)/2} \]
+\pagebreak
+
+$ a_n$
+\pagebreak
+
+$ b_n$
+\pagebreak
+
+$ \vec{x}$
+\pagebreak
+
+$ \vec{y}$
+\pagebreak
+
+$ \vec{w}$
+\pagebreak
+
+\[ (a^\ast, b^\ast)=\mathop{\mathrm{arg\;min}}\limits_{a,b}\sum\limits_i\left(y_i-f_{\text{type}}(x_i,a,b)\right)^2 \]
+\pagebreak
+
+\[ (a^\ast, b^\ast)=\mathop{\mathrm{arg\;min}}\limits_{a,b}\sum\limits_i|y_i-f_{\text{type}}(x_i,a,b)|^p \]
+\pagebreak
+
+\[ (a^\ast, b^\ast)=\mathop{\mathrm{arg\;min}}\limits_{a,b}\sum\limits_iw_i^2\left(y_i-f_{\text{type}}(x_i,a,b)\right)^2 \]
+\pagebreak
+
+$ R^2 $
+\pagebreak
+
+\[ R^2=1-\frac{\sum_i\bigl[y_i-f(x_i)\bigr]^2}{\sum_i\bigl[y_i-\overline{y}\bigr]^2} \]
+\pagebreak
+
+\[ \overline{y}=\frac{1}{N}\cdot\sum_iy_i \]
+\pagebreak
+
+$ (x_i,y_i,w_i) $
+\pagebreak
+
+\[ R^2=1-\frac{\sum_iw_i^2\bigl[y_i-f(x_i)\bigr]^2}{\sum_iw_i^2\bigl[y_i-\overline{y}\bigr]^2} \]
+\pagebreak
+
+\[ \overline{y}=\frac{1}{N}\cdot\sum_iw_iy_i \]
+\pagebreak
+
+\[ \sum_iw_i=1 \]
+\pagebreak
+
+$ \chi^2 $
+\pagebreak
+
+\[ \chi^2=\sum_i\bigl[y_i-f(x_i)\bigr]^2 \]
+\pagebreak
+
+\[ \chi^2=\sum_iw_i^2\cdot\bigl[y_i-f(x_i)\bigr]^2 \]
+\pagebreak
+
+$ f(x)=a\cdot x^b $
+\pagebreak
+
+$ f(x)=a\cdot \exp(b\cdot x) $
+\pagebreak
+
+$ f(x)=a+b\cdot \ln(x) $
+\pagebreak
+
+$ yoverride $
+\pagebreak
+
+$ y=f(x) $
+\pagebreak
+
+$ xoverride $
+\pagebreak
+
+$ x=f(y) $
+\pagebreak
+
+$ f(x,y) $
+\pagebreak
+
+$ \{(x,y)|f(x,y)\equiv L_i\} $
+\pagebreak
+
+$ \{L_i\} $
+\pagebreak
+
+$ y=f(x, \vec{p}) $
+\pagebreak
+
+$ \vec{p} $
+\pagebreak
+
+$ f(x)=p_0+p_1x+p_2x^2+p_3x^3+... $
+\pagebreak
+
+$ p_0, p_1, ... $
+\pagebreak
+
+$ f(x)=p_0+p_1x $
+\pagebreak
+
+$ f(x)=p_0+p_1\cdot\exp(x/p_2) $
+\pagebreak
+
+$ f(x)=p_0\cdot\exp(x/p_1) $
+\pagebreak
+
+$ f(x)=p_0+p_1\cdot x^{p_3} $
+\pagebreak
+
+$ f(x)=p_0\cdot x^{p_1} $
+\pagebreak
+
+$ f(x)= x^{p_0} $
+\pagebreak
+
+$ [x,y]=\vec{f}(t) $
+\pagebreak
+
+$ t $
+\pagebreak
+
+$ [x, f(x)] $
+\pagebreak
+
+$ f(y) $
+\pagebreak
+
+$ [f(y), y] $
+\pagebreak
+
+$ \vec{f}(t) $
+\pagebreak
+
+$ gt $
+\pagebreak
+
+$ \alpha_{\mbox{left}} $
+\pagebreak
+
+$ \alpha_{\mbox{right}} $
+\pagebreak
+
+\[ \left|\alpha_{\mbox{right}}-\alpha_{\mbox{left}}\right|>\mbox{slopeTolerance} \]
+\pagebreak
+
+$ \mbox{transform}\left(x, y=f(x, \vec{p})\right) $
+\pagebreak
+
+$ [x,y] $
+\pagebreak
+
+$ [x,y]=f(t) $
+\pagebreak
+
+$ t \in \left[t_\text{min}, t_\text{max}\right] $
+\pagebreak
+
+$ [x,y]=f(t, \vec{p}) $
+\pagebreak
+
+$ [x,y]=f(t), t \in \left[t_\text{min}, t_\text{max}\right] $
+\pagebreak
+
+$ (x,y) $
+\pagebreak
+
+$ \left(x, f(x) \right) $
+\pagebreak
+
+$ \left(f(y), y \right) $
+\pagebreak
+
+$ j $
+\pagebreak
+
+\[ \mbox{aspectRatio}=\frac{\mbox{plotWidth}}{\mbox{plotHeight}} \]
+\pagebreak
+
+\[ \mbox{axisAspectRatio}=\frac{\left|x_\text{max}-x_\text{min}\right|}{\left|y_\text{max}-y_\text{min}\right|} \]
+\pagebreak
+
+$ x=0 $
+\pagebreak
+
+$ y=0 $
+\pagebreak
+
+$ \mbox{Xscale}\cdot\Delta x $
+\pagebreak
+
+$ \Delta x $
+\pagebreak
+
+$ \mbox{Yscale}\cdot\Delta < $
+\pagebreak
+
+$ \Delta < $
+\pagebreak
+
+$ (x_p(x), y_p(y)) $
+\pagebreak
+
+\[ x_p(\mbox{xmin})=\mbox{xPlotOffset},\ \ \ \ \ x_p(\mbox{xmax})=\mbox{xPlotOffset}+\mbox{plotWidth} \]
+\pagebreak
+
+\[ y_p(\mbox{ymax})=\mbox{yPlotOffset},\ \ \ \ \ y_p(\mbox{ymin})=\mbox{yPlotOffset}+\mbox{plotHeight} \]
+\pagebreak
+
+$ (x_p, y_p) $
+\pagebreak
+
+\[ x_p(x)=\mbox{xoffset}+x\cdot\mbox{xscale} \ \ \ \ \ \ \ \ \ y_p(y)=\mbox{yoffset}-y\cdot\mbox{yscale} \]
+\pagebreak
+
+\[ \mbox{xscale}=\frac{\mbox{plotWidth}}{\mbox{xwidth}},\ \ \ \ \ \ \mbox{xoffset}=\mbox{xPlotOffset}-\mbox{xmin}\cdot\mbox{xscale} \]
+\pagebreak
+
+\[ \mbox{yscale}=\frac{\mbox{plotHeight}}{\mbox{ywidth}},\ \ \ \ \ \ \mbox{yoffset}=\mbox{yPlotOffset}+\mbox{ymax}\cdot\mbox{yscale} \]
+\pagebreak
+
+$ \log_b(x) $
+\pagebreak
+
+$ \log_b(x)=\log(x)/\log(b) $
+\pagebreak
+
+\[ x_p(x)=\mbox{xoffset}+\frac{\log(x)}{\log(\mbox{logXAxisBase})}\cdot\mbox{xscale} \ \ \ \ \ \ \ \ \ y_p(y)=\mbox{yoffset}-\frac{\log(y)}{\log(\mbox{logYAxisBase})}\cdot\mbox{yscale} \]
+\pagebreak
+
+\[ \mbox{xscale}=\frac{\mbox{plotWidth}\cdot\log(\mbox{logXAxisBase})}{\log(\mbox{xmax})-\log(\mbox{xmin})},\ \ \ \ \ \ \mbox{xoffset}=\mbox{xPlotOffset}-\frac{\log(\mbox{xmin})}{\log(\mbox{logXAxisBase})}\cdot\mbox{xscale} \]
+\pagebreak
+
+\[ \mbox{yscale}=\frac{\mbox{plotHeight}\cdot\log(\mbox{logYAxisBase})}{\log(\mbox{ymax})-\log(\mbox{ymin})},\ \ \ \ \ \ \mbox{yoffset}=\mbox{yPlotOffset}+\frac{\log(\mbox{ymax})}{\log(\mbox{logYAxisBase})}\cdot\mbox{yscale} \]
+\pagebreak
+
+\[ \Delta\mbox{MinorTicks}=\frac{\Delta\mbox{ticks}}{\mbox{minorTicks}+1} \]
+\pagebreak
+
+$ \Delta\mbox{tick} $
+\pagebreak
+
+$ \rho $
+\pagebreak
+
+\[ \Delta\mbox{tick}=f\cdot 10^\rho,\ \ \ \ \ f\in\{1, 2, 2.5, 5\} \]
+\pagebreak
+
+$ \rho_s=\left\lfloor\log_{10}(\mbox{awidth})\right\rfloor+3 $
+\pagebreak
+
+$ \rho=\rho_0 $
+\pagebreak
+
+$ f=10 $
+\pagebreak
+
+$ f\in\{1, 2, 2.5, 5, 10\} $
+\pagebreak
+
+$ \Delta\mbox{tick}=f\cdot 10^\rho $
+\pagebreak
+
+$ \mbox{tickcount}=\mbox{round}\left(\frac{\mbox{awidth}}{\Delta\mbox{tick}}\right) $
+\pagebreak
+
+$ f=1 $
+\pagebreak
+
+$ \rho \leftarrow \rho-1 $
+\pagebreak
+
+$ 5\cdot 10^{-6} $
+\pagebreak
+
+$ 3\cdot 10^3 $
+\pagebreak
+
+$ 3\cdot 10^5 $
+\pagebreak
+
+\end{document}

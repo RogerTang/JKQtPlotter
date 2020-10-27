@@ -1,0 +1,8 @@
+<map id="JKQTPColumnBackInserter" name="JKQTPColumnBackInserter">
+<area shape="rect" id="node1" title="iterator, which allows to insert into a column of a JKQTPDatastore" alt="" coords="5,100,239,129"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_datastore.html" title="This class manages data columns (with entries of type double ), used by JKQTPlotter/JKQTBasePlotter t..." alt="" coords="255,5,403,35"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_column.html" title="internally stores information about one data column. See JKQTPDatastore for more information." alt="" coords="263,100,394,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="299,195,585,224"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="607,100,794,129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="681,5,720,35"/>
+</map>

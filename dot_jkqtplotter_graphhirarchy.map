@@ -1,0 +1,22 @@
+<map id="%3" name="%3">
+<area shape="rect" id="node1" href="\link JKQTPPlotElement" title="\N" alt="" coords="5,851,172,900"/>
+<area shape="rect" id="node3" href="\link JKQTPPlotElement" title="\N" alt="" coords="287,468,406,517"/>
+<area shape="rect" id="node5" href="\link JKQTPGeometricPlotElement" title="\N" alt="" coords="221,636,472,685"/>
+<area shape="rect" id="node7" href="\link JKQTPPlotAnnotationElement" title="\N" alt="" coords="220,783,473,832"/>
+<area shape="rect" id="node35" href="\link JKQTPRangeBase" title="\N" alt="" coords="1193,868,1353,917"/>
+<area shape="rect" id="node37" href="\link JKQTPBoxplotElementBase" title="\N" alt="" coords="1156,1015,1391,1064"/>
+<area shape="rect" id="node39" href="\link JKQTPViolinplotElementBase" title="\N" alt="" coords="1149,1161,1397,1211"/>
+<area shape="rect" id="node9" href="\link JKQTPXYGraph" title="\N" alt="" coords="565,159,705,208"/>
+<area shape="rect" id="node11" href="\link JKQTPSingleColumnGraph" title="\N" alt="" coords="521,311,749,360"/>
+<area shape="rect" id="node13" href="\link JKQTPImageBase" title="\N" alt="" coords="555,457,715,507"/>
+<area shape="rect" id="node21" href="\link JKQTPEvaluatedFunctionGraphBase" title="\N" alt="" coords="797,592,1101,641"/>
+<area shape="rect" id="node33" href="\link JKQTPBoxplotGraphBase" title="\N" alt="" coords="1165,721,1382,771"/>
+<area shape="rect" id="node15" href="\link JKQTPXYYGraph" title="\N" alt="" coords="874,5,1025,55"/>
+<area shape="rect" id="node17" href="\link JKQTPXXYGraph" title="\N" alt="" coords="874,152,1025,201"/>
+<area shape="rect" id="node19" href="\link JKQTPXYBaselineGraph" title="\N" alt="" coords="846,299,1053,348"/>
+<area shape="rect" id="node23" href="\link JKQTPMathImageBase" title="\N" alt="" coords="849,445,1049,495"/>
+<area shape="rect" id="node25" href="\link JKQTPBarGraphBase" title="\N" alt="" coords="1180,67,1367,116"/>
+<area shape="rect" id="node27" href="\link JKQTPFilledCurveGraphBase" title="\N" alt="" coords="1151,213,1396,263"/>
+<area shape="rect" id="node29" href="\link JKQTPImpulsesGraphBase" title="\N" alt="" coords="1159,360,1388,409"/>
+<area shape="rect" id="node31" href="\link JKQTPSpecialLineGraphBase" title="\N" alt="" coords="1149,507,1397,556"/>
+</map>

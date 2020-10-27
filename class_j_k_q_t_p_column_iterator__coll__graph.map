@@ -1,0 +1,8 @@
+<map id="JKQTPColumnIterator" name="JKQTPColumnIterator">
+<area shape="rect" id="node1" title="iterator over the data in the column of a JKQTPDatastore" alt="" coords="5,195,197,224"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_column.html" title="internally stores information about one data column. See JKQTPDatastore for more information." alt="" coords="180,100,311,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="351,195,638,224"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_datastore.html" title="This class manages data columns (with entries of type double ), used by JKQTPlotter/JKQTBasePlotter t..." alt="" coords="193,289,341,319"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="401,100,588,129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="475,5,514,35"/>
+</map>

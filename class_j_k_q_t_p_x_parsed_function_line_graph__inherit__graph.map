@@ -1,0 +1,13 @@
+<map id="JKQTPXParsedFunctionLineGraph" name="JKQTPXParsedFunctionLineGraph">
+<area shape="rect" id="node1" title="This implements line plots where the data is taken from a user supplied function &#160;The function is def..." alt="" coords="189,581,424,628"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_parsed_function_line_graph_base.html" title="extends JKQTPEvaluatedFunctionWithErrorsGraphDrawingBase with the capabilities to define functions fr..." alt="" coords="151,504,463,533"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_evaluated_function_with_errors_graph_drawing_base.html" title="This class extends JKQTPEvaluatedFunctionWithErrorsGraphBase with functions to draw the graphs and se..." alt="" coords="181,409,432,456"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_evaluated_function_with_errors_graph_base.html" title="extends JKQTPEvaluatedFunctionGraphBase with some basic properties (e.g. function parameters) for a s..." alt="" coords="39,315,289,361"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_evaluated_function_graph_base.html" title="Base class for graph classes that evaluate a mathematical function (e.g. defined as a C&#45;function),..." alt="" coords="5,237,309,267"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="98,160,217,189"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="74,83,241,112"/>
+<area shape="rect" id="node8" title=" " alt="" coords="114,5,201,35"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_graph_line_and_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line and..." alt="" coords="321,315,564,361"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="333,237,552,267"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="576,237,808,267"/>
+</map>

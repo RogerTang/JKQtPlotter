@@ -1,0 +1,10 @@
+<map id="JKQTPBoxplotElementBase" name="JKQTPBoxplotElementBase">
+<area shape="rect" id="node1" title="Tbaseclass for a single (notched) boxplot as a &quot;geometric element&quot;, where the data is directly given ..." alt="" coords="170,160,405,189"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_boxplot_horizontal_element.html" title="This implements a horizontal (notched) boxplot where the data is directly given to the object and not..." alt="" coords="5,237,281,267"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_boxplot_vertical_element.html" title="This implements a single vertical (notched) boxplot as a &quot;geometric element&quot;, where the data is direc..." alt="" coords="305,237,560,267"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="85,83,252,112"/>
+<area shape="rect" id="node3" title=" " alt="" coords="125,5,212,35"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_graph_boxplot_style_mixin.html" title="Styling Mix&#45;In for Boxplots." alt="" coords="277,83,535,112"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="263,5,495,35"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="519,5,738,35"/>
+</map>

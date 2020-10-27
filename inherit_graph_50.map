@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_j_k_q_t_p_math_parser_1_1jkmp_node.html" title="This class is the abstract base class for nodes. All allowed node types must inherit from jkmpNode." alt="" coords="5,254,256,283"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_math_parser_1_1jkmp_binary_arithmetic_node.html" title="This class represents a binary arithmetic operation: add (+), subtract (&#45;), multiply (*),..." alt="" coords="336,5,596,52"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_math_parser_1_1jkmp_binary_bool_node.html" title="This class represents a binary boolean operation: and, or, xor, nor, nand." alt="" coords="336,76,596,123"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_math_parser_1_1jkmp_compare_node.html" title="This class represents a binary compare operation: !=, ==, &gt;=, &lt;=, &gt;, &lt;." alt="" coords="304,147,628,177"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_math_parser_1_1jkmp_constant_node.html" title="This class represents a number, a string contant or a boolean contant (true/false)" alt="" coords="305,201,627,230"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_math_parser_1_1jkmp_function_node.html" title="This class represents an arbitrary function." alt="" coords="307,254,625,283"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_math_parser_1_1jkmp_node_list.html" title="This class represents a list of jkmpNode." alt="" coords="327,307,605,337"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_math_parser_1_1jkmp_unary_node.html" title="This class represents a unary operations: ! (bool negation), &#45; (arithmetic negation)" alt="" coords="317,361,615,390"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_math_parser_1_1jkmp_variable_assign_node.html" title="This class represents a variable assignment (a = expression)" alt="" coords="329,415,603,461"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_math_parser_1_1jkmp_variable_node.html" title="This class represents a variable." alt="" coords="308,486,624,515"/>
+</map>

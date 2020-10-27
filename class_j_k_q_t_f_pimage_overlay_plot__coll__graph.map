@@ -1,0 +1,7 @@
+<map id="JKQTFPimageOverlayPlot" name="JKQTFPimageOverlayPlot">
+<area shape="rect" id="node1" title="plots an image overlay, i.e. a boolean image where each true pixel is drawn with a given color and th..." alt="" coords="5,263,225,292"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_f_p_plot.html" title="base class for all plots that may be plotted by JKQTFastPlotter" alt="" coords="61,184,170,213"/>
+<area shape="rect" id="node3" title=" " alt="" coords="27,87,113,116"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_fast_plotter.html" title="a speed optimized plotter class" alt="" coords="137,87,283,116"/>
+<area shape="rect" id="node5" title=" " alt="" coords="155,5,265,35"/>
+</map>

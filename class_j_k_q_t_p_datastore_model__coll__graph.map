@@ -1,0 +1,9 @@
+<map id="JKQTPDatastoreModel" name="JKQTPDatastoreModel">
+<area shape="rect" id="node1" title="QAbstractTableModel descendent that allows to view data in a JKQTPDatastore." alt="" coords="5,100,201,129"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,196,35"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_datastore.html" title="This class manages data columns (with entries of type double ), used by JKQTPlotter/JKQTBasePlotter t..." alt="" coords="220,5,368,35"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_column.html" title="internally stores information about one data column. See JKQTPDatastore for more information." alt="" coords="227,100,358,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="263,195,549,224"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="571,100,758,129"/>
+<area shape="rect" id="node7" title=" " alt="" coords="645,5,684,35"/>
+</map>

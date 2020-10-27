@@ -1,0 +1,9 @@
+<map id="JKQTPXYFunctionLineGraphBase" name="JKQTPXYFunctionLineGraphBase">
+<area shape="rect" id="node1" title="Base class for line plots where the data is taken from a user supplied function &#160;The function is eval..." alt="" coords="163,315,442,344"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_x_y_function_line_graph.html" title="This implements line plots where the data is taken from a user supplied function &#160;The function is eva..." alt="" coords="183,392,423,421"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_evaluated_function_graph_base.html" title="Base class for graph classes that evaluate a mathematical function (e.g. defined as a C&#45;function),..." alt="" coords="5,237,309,267"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="98,160,217,189"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="74,83,241,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="114,5,201,35"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="333,237,565,267"/>
+</map>

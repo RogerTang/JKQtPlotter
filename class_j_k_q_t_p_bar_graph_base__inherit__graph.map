@@ -1,0 +1,16 @@
+<map id="JKQTPBarGraphBase" name="JKQTPBarGraphBase">
+<area shape="rect" id="node1" title="This is a base&#45;class for all bar graphs with vertical or horizontal orientation (the orientation is i..." alt="" coords="989,100,1176,129"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_bar_horizontal_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="1224,68,1452,97"/>
+<area shape="rect" id="node12" href="$class_j_k_q_t_p_bar_vertical_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="1235,131,1441,160"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_x_y_baseline_graph.html" title="This virtual JKQTPGraph descendent extends JKQTPXYGraph adds a baseline&#45;property, which is necessary,..." alt="" coords="722,47,929,76"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_x_y_graph.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="521,47,661,76"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="355,47,473,76"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="140,47,307,76"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,47,92,76"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="709,100,941,129"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="716,153,935,183"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_bar_horizontal_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="1500,5,1767,35"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_bar_horizontal_stackable_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="1505,59,1762,106"/>
+<area shape="rect" id="node13" href="$class_j_k_q_t_p_bar_vertical_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="1510,131,1757,160"/>
+<area shape="rect" id="node14" href="$class_j_k_q_t_p_bar_vertical_stackable_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="1515,185,1751,231"/>
+</map>
